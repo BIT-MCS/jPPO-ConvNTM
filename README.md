@@ -72,3 +72,16 @@ Corresponding author: Chi Harold Liu.
 ## :e-mail: Contact
 
 If you have any question, please email `363317018@qq.com`.
+## Paper
+If you are interested in our work, please cite our paper as
+
+```
+@INPROCEEDINGS{9155535,
+  author={Liu, Chi Harold and Piao, Chengzhe and Tang, Jian},
+  booktitle={IEEE INFOCOM 2020 - IEEE Conference on Computer Communications}, 
+  title={Energy-Efficient UAV Crowdsensing with Multiple Charging Stations by Deep Learning}, 
+  year={2020},
+  pages={199-208},
+  doi={10.1109/INFOCOM41043.2020.9155535}
+}
+```
