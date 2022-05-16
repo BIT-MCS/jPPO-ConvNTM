@@ -1,5 +1,5 @@
 # j-PPO+ConvNTM
-Additional materials for paper "Energy-Efficient UAV Crowdsensing with Multiple Charging Stations by Deep Learning" accepted by INFOCOM 2020.
+This work "Energy-Efficient UAV Crowdsensing with Multiple Charging Stations by Deep Learning" has been published in INFOCOM 2020.
 ## :page_facing_up: Description
 We aim to propose a new deep learning based framework to tackle the problem that a group of UAVs energy-efficiently and cooperatively collect data from low-level sensors, while charging the battery from multiple randomly deployed charging stations. Specifically, we propose a new deep model called "j-PPO+ConvNTM" which contains a novel spatiotemporal module "Convolution Neural Turing Machine" (ConvNTM) to better model long-sequence spatiotemporal data, and a deep reinforcement learning (DRL) model called "j-PPO", where it has the capability to make continuous (i.e., route planing) and discrete (i.e., either to collect data or go for charging) action decisions simultaneously for all UAVs. 
 ## :wrench: Dependencies
